@@ -151,7 +151,7 @@ Statens främsta uppgift är att kontrollera penningmängden i samhället. Dvs. 
 
 ## Kritik mot Keynesianism
 
-Delvis *Informationsproblemet* och delvis rationella förväntningar. Det är inte bara människors inkomster som skapar efterfråga utan även deras *förväntade* inkomster.
+Delvis _Informationsproblemet_ och delvis rationella förväntningar. Det är inte bara människors inkomster som skapar efterfråga utan även deras _förväntade_ inkomster.
 
 - Om staten satsar pengar gissar individer och företag att priser och löner går upp vilket minskar vilja att anställa. Statliga satsningar sänker aldrig arbetslösheten på låg sikt.
 
